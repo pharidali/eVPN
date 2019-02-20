@@ -1,51 +1,60 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
+  "android_play_store_link":"https:\/\/play.google.com\/store\/apps\/details?id=com.viztushar.stickerpack",
+  "ios_app_store_link":"https:\/\/play.google.com\/store\/apps\/details?id=com.viztushar.stickerpack",
   "sticker_packs": [
     {
-      "identifier": "1",
-      "name": "Taffy Cat",
-      "publisher": "Tushar Parmar",
-      "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
-      "publisher_email":"viztushar@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
+      "identifier":3,
+      "name":"Hello",
+      "publisher":"PA Production",
+      "tray_image_file":"http:\/\/209.205.219.162\/~pharidcom\/backend\/uploads\/aa097860face4d8c8fbf397a8d725135f2128a7d.747reign.png",
+      "publisher_email":"asoftplus@gmail.com",
+      "publisher_website":"http:\/\/pharid.com",
+      "privacy_policy_website":"http:\/\/pharid.com\/privacy-policy",
+      "lisence_agreement_website":"http:\/\/pharid.com",
       "stickers": [
         {
-          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_01_thub.png",
-          "emojis": ["ðŸ™‚"]
+          "image_file":"http:\/\/209.205.219.162\/~pharidcom\/backend\/uploads\/5144ddea1af5a253ac045600c0ff1fef00827596.6771.webp",
+          "emojis":["Hello"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_02_thub.png",
-          "emojis": ["ðŸ™‚"]
+          "image_file":"http:\/\/209.205.219.162\/~pharidcom\/backend\/uploads\/5144ddea1af5a253ac045600c0ff1fef00827596.5384.webp",
+          "emojis":["Hello"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_03_thub.png",
-          "emojis": ["ðŸ™‚"]
+          "image_file":"http:\/\/209.205.219.162\/~pharidcom\/backend\/uploads\/5144ddea1af5a253ac045600c0ff1fef00827596.5125.webp",
+          "emojis":["Hello"]
+        },
+        {
+          "image_file":"http:\/\/209.205.219.162\/~pharidcom\/backend\/uploads\/5110ee41d0467ea719b7c40534df68c39bfb6225.2466.webp",
+          "emojis":["Hello"]
         }
       ]
     },
     {
-      "identifier": "2",
-      "name": "Taffy Cat 2",
-      "publisher": "Tushar Parmar",
-      "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
-      "publisher_email":"viztushar@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
+      "identifier":4,
+      "name":"etretete",
+      "publisher":"PA Production",
+      "tray_image_file":"http:\/\/209.205.219.162\/~pharidcom\/backend\/uploads\/2c3e19b81cc5b2dc207801136b80a93c36c1fa69.1reign2.png",
+      "publisher_email":"asoftplus@gmail.com",
+      "publisher_website":"http:\/\/pharid.com",
+      "privacy_policy_website":"http:\/\/pharid.com\/privacy-policy",
+      "lisence_agreement_website":"http:\/\/pharid.com",
       "stickers": [
         {
-          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
-          "emojis": ["ðŸ™‚"]
+          "image_file":"http:\/\/209.205.219.162\/~pharidcom\/backend\/uploads\/f4a64a061c78b491c0ebf561794a02b55a766063.8761.webp",
+          "emojis":["etretete"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_05_thub.png",
-          "emojis": ["ðŸ™‚"]
+          "image_file":"http:\/\/209.205.219.162\/~pharidcom\/backend\/uploads\/f4a64a061c78b491c0ebf561794a02b55a766063.7032.webp",
+          "emojis":["etretete"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_06_thub.png",
-          "emojis": ["ðŸ™‚"]
+          "image_file":"http:\/\/209.205.219.162\/~pharidcom\/backend\/uploads\/f4a64a061c78b491c0ebf561794a02b55a766063.4043.webp",
+          "emojis":["etretete"]
+        },
+        {
+          "image_file":"http:\/\/209.205.219.162\/~pharidcom\/backend\/uploads\/f4a64a061c78b491c0ebf561794a02b55a766063.8964.webp",
+          "emojis":["etretete"]
         }
       ]
     }
