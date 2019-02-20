@@ -1,50 +1,50 @@
 {
-  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
   "sticker_packs": [
     {
-      "identifier":"3",
-      "name":"Hello",
-      "publisher":"PA Production",
-      "tray_image_file":"https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
-      "publisher_email":"asoftplus@gmail.com",
-      "publisher_website":"",
-      "privacy_policy_website":"",
-      "lisence_agreement_website":"",
+      "identifier": "3",
+      "name": "Hello",
+      "publisher": "PA Production",
+      "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
+      "publisher_email": "asoftplus@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "lisence_agreement_website": "",
       "stickers": [
         {
-          "image_file":"https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
           "emojis": ["ðŸ™‚"]
         },
         {
-          "image_file":"https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
            "emojis": ["ðŸ™‚"]
         },
         {
-          "image_file":"https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
           "emojis": ["ðŸ™‚"]
         }
       ]
     },
     {
-      "identifier":"4",
-      "name":"etretete",
-      "publisher":"PA Production",
-      "tray_image_file":"https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
-      "publisher_email":"asoftplus@gmail.com",
-      "publisher_website":"",
-      "privacy_policy_website":"",
-      "lisence_agreement_website":"",
+      "identifier": "4",
+      "name": "etretete",
+      "publisher": "PA Production",
+      "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
+      "publisher_email": "asoftplus@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "lisence_agreement_website": "",
       "stickers": [
         {
-          "image_file":"https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
           "emojis": ["ðŸ™‚"]
         },
         {
-          "image_file":"https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
          "emojis": ["ðŸ™‚"]
         },
         {
-          "image_file":"https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
          "emojis": ["ðŸ™‚"]
         }
       ]
