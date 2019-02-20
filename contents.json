@@ -3,7 +3,7 @@
 "sticker_packs":
 [
 {
-"identifier":3,
+"identifier":"3",
 "name":"Hello",
 "publisher":"PA Production",
 "tray_image_file":"https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
