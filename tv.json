@@ -2,7 +2,7 @@
 
   {
     "name": "Live TV",
-    "logo": "",
+    "logo": "https://i.imgur.com/PGyKnmM.png",
     "url": "http://85.234.151.122:80/ISI-BROADCAST/LABORNE/index.m3u8",
     "category": "News",
     "languages": [
@@ -25,7 +25,7 @@
   },
     {
     "name": "Live Radio",
-    "logo": "",
+    "logo": "https://i.imgur.com/YguoxJ4.png",
     "url": "http://85.234.151.122:80/ISI-BROADCAST/LABORNE-RADIO/index.m3u8",
     "category": "News",
     "languages": [
