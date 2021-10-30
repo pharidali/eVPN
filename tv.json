@@ -1,0 +1,58 @@
+[
+
+  {
+    "name": "Live TV",
+    "logo": "",
+    "url": "http://85.234.151.122:80/ISI-BROADCAST/LABORNE/index.m3u8",
+    "category": "News",
+    "languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "countries": [
+      {
+        "code": "us",
+        "name": "United States"
+      },
+      {
+        "code": "ca",
+        "name": "Canada"
+      }
+    ],
+    "tvg": {
+      "id": "cnn.us",
+      "name": "CNN",
+      "url": "http://epg.streamstv.me/epg/guide-usa.xml.gz"
+    }
+  },
+    {
+    "name": "Live Radio",
+    "logo": "",
+    "url": "http://85.234.151.122:80/ISI-BROADCAST/LABORNE-RADIO/index.m3u8",
+    "category": "News",
+    "languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "countries": [
+      {
+        "code": "us",
+        "name": "United States"
+      },
+      {
+        "code": "ca",
+        "name": "Canada"
+      }
+    ],
+    "tvg": {
+      "id": "cnn.us",
+      "name": "CNN",
+      "url": "http://epg.streamstv.me/epg/guide-usa.xml.gz"
+    }
+  },
+
+]
