@@ -15,16 +15,12 @@
       {
         "code": "us",
         "name": "United States"
-      },
-      {
-        "code": "ca",
-        "name": "Canada"
       }
     ],
     "tvg": {
-      "id": "cnn.us",
-      "name": "CNN",
-      "url": "http://epg.streamstv.me/epg/guide-usa.xml.gz"
+      "id": "livetv.us",
+      "name": "Live TV",
+      "url": null
     }
   },
     {
@@ -42,16 +38,12 @@
       {
         "code": "us",
         "name": "United States"
-      },
-      {
-        "code": "ca",
-        "name": "Canada"
       }
     ],
     "tvg": {
-      "id": "cnn.us",
-      "name": "CNN",
-      "url": "http://epg.streamstv.me/epg/guide-usa.xml.gz"
+      "id": "liveradio.us",
+      "name": "Live Radio",
+      "url":null
     }
   },
 
