@@ -49,7 +49,7 @@
       "name":"NTV",
       "logo":"https://i.imgur.com/rzrOS3N.png",
       "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/NTVNEPALdvr.stream/playlist_dvr.m3u8",
-      "categories":[{"name":"Entertainment","slug":"entertainment"}],
+      "categories":[{"name":"Animation","slug":"Animation"}],
       "countries":[
          {
             "name":"Russia",
@@ -141,7 +141,7 @@
       "name":"NTV",
       "logo":"https://i.imgur.com/rzrOS3N.png",
       "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/NTVNEPALdvr.stream/playlist_dvr.m3u8",
-      "categories":[{"name":"Entertainment","slug":"entertainment"}],
+      "categories":[{"name":"Movies","slug":"Movies"}],
       "countries":[
          {
             "name":"Russia",
@@ -164,7 +164,7 @@
       "name":"Star Sports",
       "logo":"https://i.imgur.com/rzrOS3N.png",
       "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/selecthddvr.stream/playlist_dvr.m3u8",
-      "categories":[{"name":"Entertainment","slug":"entertainment"}],
+      "categories":[{"name":"Music","slug":"Music"}],
       "countries":[
          {
             "name":"Russia",
