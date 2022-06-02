@@ -3,12 +3,7 @@
       "name":".black Russia",
       "logo":"https://i.imgur.com/rzrOS3N.png",
       "url":"https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8",
-      "categories":[
-         {
-            "name":"Entertainment",
-            "slug":"entertainment"
-         }
-      ],
+      "category":"News",
       "countries":[
          {
             "name":"Russia",
@@ -31,12 +26,7 @@
       "name":".black Russia",
       "logo":"https://i.imgur.com/rzrOS3N.png",
       "url":"https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8",
-      "categories":[
-         {
-            "name":"Entertainment",
-            "slug":"entertainment"
-         }
-      ],
+      "category":"Sports",
       "countries":[
          {
             "name":"Russia",
