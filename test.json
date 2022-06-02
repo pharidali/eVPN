@@ -3,7 +3,12 @@
       "name":"NTV",
       "logo":"https://i.imgur.com/rzrOS3N.png",
       "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/NTVNEPALdvr.stream/playlist_dvr.m3u8",
-      "category":"News",
+        "categories":[
+         {
+            "name":"Entertainment",
+            "slug":"entertainment"
+         }
+      ]
       "countries":[
          {
             "name":"Russia",
