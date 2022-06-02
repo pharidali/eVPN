@@ -1,14 +1,9 @@
 [
    {
-      "name":".black Russia",
+      "name":"NTV",
       "logo":"https://i.imgur.com/rzrOS3N.png",
-      "url":"https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8",
-      "categories":[
-         {
-            "name":"Entertainment",
-            "slug":"entertainment"
-         }
-      ],
+      "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/NTVNEPALdvr.stream/playlist_dvr.m3u8",
+      "category":"News",
       "countries":[
          {
             "name":"Russia",
@@ -24,7 +19,214 @@
       "tvg":{
          "id":"BlackRussia.us",
          "name":".black Russia",
-         "url":"https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8"
+         "url":""
+      }
+   },
+   {
+      "name":"Star Sports",
+      "logo":"https://i.imgur.com/rzrOS3N.png",
+      "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/selecthddvr.stream/playlist_dvr.m3u8",
+      "category":"Sports",
+      "countries":[
+         {
+            "name":"Russia",
+            "code":"RU"
+         }
+      ],
+      "languages":[
+         {
+            "name":"Russian",
+            "code":"rus"
+         }
+      ],
+      "tvg":{
+         "id":"BlackRussia.us",
+         "name":".black Russia",
+         "url":""
+      }
+   },
+   {
+      "name":"NTV",
+      "logo":"https://i.imgur.com/rzrOS3N.png",
+      "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/NTVNEPALdvr.stream/playlist_dvr.m3u8",
+      "category":"News",
+      "countries":[
+         {
+            "name":"Russia",
+            "code":"RU"
+         }
+      ],
+      "languages":[
+         {
+            "name":"Russian",
+            "code":"rus"
+         }
+      ],
+      "tvg":{
+         "id":"BlackRussia.us",
+         "name":".black Russia",
+         "url":""
+      }
+   },
+   {
+      "name":"Star Sports",
+      "logo":"https://i.imgur.com/rzrOS3N.png",
+      "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/selecthddvr.stream/playlist_dvr.m3u8",
+      "category":"Sports",
+      "countries":[
+         {
+            "name":"Russia",
+            "code":"RU"
+         }
+      ],
+      "languages":[
+         {
+            "name":"Russian",
+            "code":"rus"
+         }
+      ],
+      "tvg":{
+         "id":"BlackRussia.us",
+         "name":".black Russia",
+         "url":""
+      }
+   },
+   {
+      "name":"NTV",
+      "logo":"https://i.imgur.com/rzrOS3N.png",
+      "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/NTVNEPALdvr.stream/playlist_dvr.m3u8",
+      "category":"News",
+      "countries":[
+         {
+            "name":"Russia",
+            "code":"RU"
+         }
+      ],
+      "languages":[
+         {
+            "name":"Russian",
+            "code":"rus"
+         }
+      ],
+      "tvg":{
+         "id":"BlackRussia.us",
+         "name":".black Russia",
+         "url":""
+      }
+   },
+   {
+      "name":"Star Sports",
+      "logo":"https://i.imgur.com/rzrOS3N.png",
+      "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/selecthddvr.stream/playlist_dvr.m3u8",
+      "category":"Sports",
+      "countries":[
+         {
+            "name":"Russia",
+            "code":"RU"
+         }
+      ],
+      "languages":[
+         {
+            "name":"Russian",
+            "code":"rus"
+         }
+      ],
+      "tvg":{
+         "id":"BlackRussia.us",
+         "name":".black Russia",
+         "url":""
+      }
+   },
+   {
+      "name":"NTV",
+      "logo":"https://i.imgur.com/rzrOS3N.png",
+      "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/NTVNEPALdvr.stream/playlist_dvr.m3u8",
+      "category":"News",
+      "countries":[
+         {
+            "name":"Russia",
+            "code":"RU"
+         }
+      ],
+      "languages":[
+         {
+            "name":"Russian",
+            "code":"rus"
+         }
+      ],
+      "tvg":{
+         "id":"BlackRussia.us",
+         "name":".black Russia",
+         "url":""
+      }
+   },
+   {
+      "name":"Star Sports",
+      "logo":"https://i.imgur.com/rzrOS3N.png",
+      "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/selecthddvr.stream/playlist_dvr.m3u8",
+      "category":"Sports",
+      "countries":[
+         {
+            "name":"Russia",
+            "code":"RU"
+         }
+      ],
+      "languages":[
+         {
+            "name":"Russian",
+            "code":"rus"
+         }
+      ],
+      "tvg":{
+         "id":"BlackRussia.us",
+         "name":".black Russia",
+         "url":""
+      }
+   },
+   {
+      "name":"NTV",
+      "logo":"https://i.imgur.com/rzrOS3N.png",
+      "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/NTVNEPALdvr.stream/playlist_dvr.m3u8",
+      "category":"News",
+      "countries":[
+         {
+            "name":"Russia",
+            "code":"RU"
+         }
+      ],
+      "languages":[
+         {
+            "name":"Russian",
+            "code":"rus"
+         }
+      ],
+      "tvg":{
+         "id":"BlackRussia.us",
+         "name":".black Russia",
+         "url":""
+      }
+   },
+   {
+      "name":"Star Sports",
+      "logo":"https://i.imgur.com/rzrOS3N.png",
+      "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/selecthddvr.stream/playlist_dvr.m3u8",
+      "category":"Sports",
+      "countries":[
+         {
+            "name":"Russia",
+            "code":"RU"
+         }
+      ],
+      "languages":[
+         {
+            "name":"Russian",
+            "code":"rus"
+         }
+      ],
+      "tvg":{
+         "id":"BlackRussia.us",
+         "name":".black Russia",
+         "url":""
       }
    }
 ]
