@@ -1,25 +1,123 @@
 [
-   {
-      "name":"NTV",
-      "logo":"https://i.imgur.com/rzrOS3N.png",
-      "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/NTVNEPALdvr.stream/playlist_dvr.m3u8",
-      "categories":[{"name":"Entertainment","slug":"entertainment"}],
+  "name":"&Pictures",
+      "logo":"https://static.epg.best/in/AndPictures.in.png",
+      "url":"https://sneh-z5api.herokuapp.com/?c=0-9-tvpictureshd",
+      "categories":[
+         {
+            "name":"Movies",
+            "slug":"movies"
+         },  {
+            "name":"Animation",
+            "slug":"Animation"
+         },  {
+            "name":"Business",
+            "slug":"Business"
+         },  {
+            "name":"Comedy",
+            "slug":"Comedy"
+         },  {
+            "name":"Cooking",
+            "slug":"Cooking"
+         },  {
+            "name":"Education",
+            "slug":"Education"
+         },  {
+            "name":"Entertainment",
+            "slug":"Entertainment"
+         },  {
+            "name":"Family",
+            "slug":"Family"
+         },  {
+            "name":"Kids",
+            "slug":"Kids"
+         },  {
+            "name":"Lifestyle",
+            "slug":"Lifestyle"
+         },  {
+            "name":"Local",
+            "slug":"Local"
+         },  {
+            "name":"Movies",
+            "slug":"Movies"
+         },  {
+            "name":"Music",
+            "slug":"Music"
+         },  {
+            "name":"News",
+            "slug":"News"
+         },  {
+            "name":"Relax",
+            "slug":"Relax"
+         },  {
+            "name":"Religious",
+            "slug":"Religious"
+         },  {
+            "name":"Science",
+            "slug":"Science"
+         },  {
+            "name":"Series",
+            "slug":"Series"
+         },  {
+            "name":"Shop",
+            "slug":"Shop"
+         },  {
+            "name":"Sports",
+            "slug":"Sports"
+         },  {
+            "name":"Travel",
+            "slug":"Travel"
+         },  {
+            "name":"Weather",
+            "slug":"Weather"
+         },  {
+            "name":"Auto",
+            "slug":"Auto"
+         }
+      ],
       "countries":[
          {
-            "name":"Russia",
-            "code":"RU"
+            "name":"Afghanistan",
+            "code":"AF"
+         },
+         {
+            "name":"Bangladesh",
+            "code":"BD"
+         },
+         {
+            "name":"Bhutan",
+            "code":"BT"
+         },
+         {
+            "name":"India",
+            "code":"IN"
+         },
+         {
+            "name":"Sri Lanka",
+            "code":"LK"
+         },
+         {
+            "name":"Maldives",
+            "code":"MV"
+         },
+         {
+            "name":"Nepal",
+            "code":"NP"
+         },
+         {
+            "name":"Pakistan",
+            "code":"PK"
          }
       ],
       "languages":[
          {
-            "name":"Russian",
-            "code":"rus"
+            "name":"Pashto",
+            "code":"pus"
          }
       ],
       "tvg":{
-         "id":"BlackRussia.us",
-         "name":".black Russia",
-         "url":"http://iptvdvr.nettv.com.np/iptvlive-dvr/NTVNEPALdvr.stream/playlist_dvr.m3u8"
+         "id":"AndPictures.in",
+         "name":"&Pictures",
+         "url":""
       }
-   }
+   },
 ]
